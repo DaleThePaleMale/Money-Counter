@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Money Counter\bin\Debug\Money Counter.exe.config
+C:\Users\Admin\source\repos\Money Counter\bin\Debug\Money Counter.exe
+C:\Users\Admin\source\repos\Money Counter\bin\Debug\Money Counter.pdb
+C:\Users\Admin\source\repos\Money Counter\obj\Debug\Money Counter.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Money Counter\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\Money Counter\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\Money Counter\obj\Debug\Money Counter_MarkupCompile.cache
+C:\Users\Admin\source\repos\Money Counter\obj\Debug\Money Counter_MarkupCompile.lref
+C:\Users\Admin\source\repos\Money Counter\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\Money Counter\obj\Debug\Money Counter.g.resources
+C:\Users\Admin\source\repos\Money Counter\obj\Debug\Money_Counter.Properties.Resources.resources
+C:\Users\Admin\source\repos\Money Counter\obj\Debug\Money Counter.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Money Counter\obj\Debug\Money Counter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Money Counter\obj\Debug\Money Counter.exe
+C:\Users\Admin\source\repos\Money Counter\obj\Debug\Money Counter.pdb
